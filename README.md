@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Deep402
 - 👀 I’m interested in AI/ML
-- 🌱 I’m currently learning C and Python
+- 🌱 I’m currently learning DSA and Python
 - 
 - 📫 How to reach me "Email:- deepsangani402@gmail.com 
 
